@@ -1,0 +1,14 @@
+@media(max-width: 768px){
+    #search-banner{
+        width: 1150px;
+    }
+}
+@media(max-width: 768px){
+    #search-banner{
+        width: 90%;
+        height: 500px;
+    }
+    #popular-bundle-pack{
+        width:90%;
+    }
+}
